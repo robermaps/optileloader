@@ -1,0 +1,49 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=OpenPlanetary Tile Loader
+qgisMinimumVersion=3.0
+description=Load Mars and The Moon basemaps
+version=0.1
+author=Rober J
+email=roberer_@outlook.es
+
+about=This plugin provides easy access to basemaps of Mars and The Moon provided by OpenPlanetary.
+
+tracker=https://github.com/roberer/optileloader/issues
+repository=https://github.com/roberer/optileloader
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python, mars, the moon, tiles, basemaps, openplanetary
+
+homepage=https://github.com/roberer/optileloader
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=Web
+
+# If the plugin can run on QGIS Server.
+server=False
+
+#License
+license=GPLv2

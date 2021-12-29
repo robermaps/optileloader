@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OPMTilesDialogBase</class>
+ <widget class="QDialog" name="OPMTilesDialogBase">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>589</width>
+    <height>403</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>OpenPlanetaryTiles</string>
+  </property>
+  <widget class="QLabel" name="MARS">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>120</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Mars</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="MOON">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>10</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>The Moon</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="basemap">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>180</y>
+     <width>241</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OPM Mars Basemap v0.2</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="viking">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>220</y>
+     <width>241</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mars VIKING MDIM 2.1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="shadedmola">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>300</y>
+     <width>241</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mars Shaded Colour MOLA Elevation</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="surfacetexture">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>180</y>
+     <width>241</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mars Shaded Surface Texture</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="colourmola">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>260</y>
+     <width>241</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mars Colour MOLA Elevation</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hillshade">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>220</y>
+     <width>241</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mars Hillshade</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="graymola">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>260</y>
+     <width>241</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Mars Shaded Grayscale MOLA Elevation</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="moonbase">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>70</y>
+     <width>241</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OPM Moon Basemap v0.1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="moonhillsh">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>70</y>
+     <width>241</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Moon Hillshaded Albedo</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>360</y>
+     <width>161</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.openplanetary.org/opm&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Provided by OpenPlanetary&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="openExternalLinks">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>360</y>
+     <width>161</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://roberer.github.io&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;About&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="openExternalLinks">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

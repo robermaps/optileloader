@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/optileloader" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
