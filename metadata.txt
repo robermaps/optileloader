@@ -46,4 +46,4 @@ Category of the plugin: Raster, Vector, Database or Web
 server=False
 
 #License
-license=GPLv2
+license=GPLv3
