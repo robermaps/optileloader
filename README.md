@@ -1,4 +1,4 @@
-# OpenPlanetary Tile Loader
+# OpenPlanetary Tile Loader for QGIS
 A QGIS plugin which gives easy access to basemaps of Mars and The Moon provided by <a href="https://www.openplanetary.org/">OpenPlanetary</a><br><br>
 Just press a button and the tile will be loaded to your QGIS project<br><br>
 You can easily explore all these basemaps <a href="https://roberer.github.io/pages/mars-moon-explorer">here</a> before download anything<br><br>
