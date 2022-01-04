@@ -9,5 +9,5 @@ You can easily explore all these basemaps <a href="https://roberer.github.io/pag
 ## Notes
 * This is not official
 * Created with QGIS 3.18.3 and Qt 5.11.2
-* Thanks to <a href="">Plugin Builder 3</a> and <a href="">Plugin reloader</a>
+* Thanks to <a href="https://plugins.qgis.org/plugins/pluginbuilder3/">Plugin Builder 3</a> and <a href="https://plugins.qgis.org/plugins/plugin_reloader/">Plugin reloader</a>
 
