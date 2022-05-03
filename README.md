@@ -1,4 +1,9 @@
 # OpenPlanetary Tile Loader for QGIS
+
+By Rober J
+
+[![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
+
 A QGIS plugin which gives easy access to basemaps of Mars and The Moon provided by <a href="https://www.openplanetary.org/">OpenPlanetary</a><br><br>
 📥 <a href="https://plugins.qgis.org/plugins/optileloader/">Download it from the official QGIS Python Plugins Repository</a>
 
