@@ -9,7 +9,7 @@ A QGIS plugin which gives easy access to basemaps of Mars and The Moon provided 
 
 Just press a button and the tile will be loaded to your QGIS project<br><br>
 You can easily explore all these basemaps <a href="https://roberer.github.io/pages/mars-moon-explorer">here</a> before download anything<br><br>
-<img src="https://i.imgur.com/9qj3Db9.jpg" width=100% height=100% >
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEUXE-jdw6I0s2-O62BrTvHdRrhg-6WAycfk6hXfg8A0h4JU5Oc7VqMDZinLvOnEClasx0SfBoIWSPzfKRhqMoFzxJXkzy5wPUz6yms4yjNQ3BGN3NVT8RCuJM6pfEa-aH_eXY1OsHt1jRkXNYa7osTj=w965-h542-no?authuser=1" width=100% height=100% >
 
 ## Notes
 * This is not official
