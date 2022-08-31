@@ -4,7 +4,7 @@ By Rober J
 
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
 
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEUXE-jdw6I0s2-O62BrTvHdRrhg-6WAycfk6hXfg8A0h4JU5Oc7VqMDZinLvOnEClasx0SfBoIWSPzfKRhqMoFzxJXkzy5wPUz6yms4yjNQ3BGN3NVT8RCuJM6pfEa-aH_eXY1OsHt1jRkXNYa7osTj=w965-h542-no?authuser=1" width=600px height=400px >
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEUXE-jdw6I0s2-O62BrTvHdRrhg-6WAycfk6hXfg8A0h4JU5Oc7VqMDZinLvOnEClasx0SfBoIWSPzfKRhqMoFzxJXkzy5wPUz6yms4yjNQ3BGN3NVT8RCuJM6pfEa-aH_eXY1OsHt1jRkXNYa7osTj=w965-h542-no?authuser=1" width=60% height=60% >
 
 A QGIS plugin which gives easy access to basemaps of Mars and The Moon provided by <a href="https://www.openplanetary.org/">OpenPlanetary</a><br><br>
 📥 <a href="https://plugins.qgis.org/plugins/optileloader/">Download it from the official QGIS Python Plugins Repository</a>
