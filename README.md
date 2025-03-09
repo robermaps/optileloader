@@ -4,7 +4,7 @@ By Rober J
 
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://robermaps.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://robermaps.github.io)[![](https://img.shields.io/badge/@robermaps_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/robermaps)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robermaps)
 
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEUXE-jdw6I0s2-O62BrTvHdRrhg-6WAycfk6hXfg8A0h4JU5Oc7VqMDZinLvOnEClasx0SfBoIWSPzfKRhqMoFzxJXkzy5wPUz6yms4yjNQ3BGN3NVT8RCuJM6pfEa-aH_eXY1OsHt1jRkXNYa7osTj=w965-h542-no?authuser=1" width=60% height=60% >
+<img src="robermaps.github.io\img\mars-moon.jpg" width=60% height=60% >
 
 A QGIS plugin to easily load and work with basemaps of Mars and The Moon. 
 
