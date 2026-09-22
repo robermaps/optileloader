@@ -10,7 +10,7 @@ Data is provided by <a href="https://www.openplanetary.org/">OpenPlanetary</a>
 
 Just press a button and the tile will be loaded to your QGIS project
 
-🗺️ <a href="https://robermaps.github.io/pages/mars-moon-explorer">Explore all basemaps</a> before download.
+🗺️ <a href="https://robermaps.github.io/maps/mars-moon-explorer">Explore all basemaps</a> before download.
 
 ## Notes
 * <b>Data is projected in Web Mercator (EPSG:3857)</b>
